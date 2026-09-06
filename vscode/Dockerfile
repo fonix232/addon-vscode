@@ -46,7 +46,7 @@ RUN \
         unzip=6.0-29 \
         uuid-runtime=2.41-5 \
         wget=1.25.0-2 \
-        zip=3.0-15 \
+        zip=3.0-15+deb13u1 \
         zsh=5.9-8+b14 \
         less=668-1 \
     \
